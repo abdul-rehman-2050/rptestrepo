@@ -1,0 +1,15 @@
+<?php return array (
+  'edit_payment_method' => 'Edit Payment Method',
+  'add_new_payment_method' => 'Add Payment Method',
+  'added' => 'Payment Method added.',
+  'could_not_find' => 'Could not find selected Payment Method.',
+  'default_cannot_be_deleted' => 'Default Payment Method cannot be deleted.',
+  'delete_payment_method' => 'Delete Payment Method',
+  'deleted' => 'Payment Method deleted.',
+  'name' => 'Name',
+  'payment_method' => 'Payment Method',
+  'payment_method_list' => 'Payment Method List',
+  'name' => 'Name',
+  'code' => 'Code',
+  'description' => 'Description',
+);

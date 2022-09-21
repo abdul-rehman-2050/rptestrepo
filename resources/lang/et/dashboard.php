@@ -1,0 +1,17 @@
+<?php return array (
+  'dashboard' => 'Avaleht',
+  'email_address' => 'E-posti aadress',
+  'email_body' => 'E-posti sisu',
+  'email_subject' => 'E-kirja teema',
+  'month' => 'See kuu',
+  'period_registered_user' => ':period Registered User',
+  'registered_user' => 'Registreeritud kasutaja',
+  'sms_phone' => 'SMS telefoni number',
+  'sms_text' => 'SMS sisu',
+  'today' => 'Täna',
+  'total' => 'Kokku',
+  'total_customers' => 'Klinte kokku',
+  'total_inventory' => 'Ladu kokku',
+  'total_repairs' => 'Remondid kokku',
+  'week' => 'Sellel nädalal',
+);

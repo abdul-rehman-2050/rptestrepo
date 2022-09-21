@@ -1,0 +1,15 @@
+<?php return array (
+  'edit_unit' => 'تحرير الوحدة',
+  'add_new_unit' => 'أضف وحدة',
+  'added' => 'تم إضافة الوحدة.',
+  'could_not_find' => 'لم يتم العثور على وحدات.',
+  'default_cannot_be_deleted' => 'لا يمكن حذف الوحدة الافتراضية .',
+  'delete_unit' => 'حذف الوحدة',
+  'deleted' => 'تم الحذف بنجاح.',
+  'name' => 'اسم',
+  'unit' => 'الوحدة',
+  'unit_list' => 'قائمة الوحدات',
+  'code' => 'الرمز',
+  'name' => 'الاسم',
+  'allow_decimal' => 'السماح بالفواصل العشرية',
+);

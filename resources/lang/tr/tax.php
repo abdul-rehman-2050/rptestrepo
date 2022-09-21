@@ -1,0 +1,16 @@
+<?php return array (
+  'edit_tax' => 'KDV Düzenle',
+  'add_new_tax' => 'KDV Ekle',
+  'added' => 'Kdv eklendi.',
+  'could_not_find' => 'Seçilen KDV bulunamadı.',
+  'default_cannot_be_deleted' => 'Varsayılan KDV silinemez.',
+  'delete_tax' => 'KDV Sil',
+  'deleted' => 'KDV silindi.',
+  'name' => 'Ad',
+  'tax' => 'KDV',
+  'tax_list' => 'KDV Listesi',
+  'code' => 'Kodu',
+  'name' => 'Adı',
+  'type' => 'KDV Tipi',
+  'rate' => 'Oran',
+);

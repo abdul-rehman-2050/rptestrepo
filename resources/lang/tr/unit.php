@@ -1,0 +1,15 @@
+<?php return array (
+  'edit_unit' => 'Birim Düzenle',
+  'add_new_unit' => 'Birim Ekle',
+  'added' => 'Birim eklendi.',
+  'could_not_find' => 'Seçilen birim bulunamadı.',
+  'default_cannot_be_deleted' => 'Varsayılan birim silinemez.',
+  'delete_unit' => 'Birim Sil',
+  'deleted' => 'Birim silindi.',
+  'name' => 'Ad',
+  'unit' => 'Birim',
+  'unit_list' => 'Birim Listesi',
+  'code' => 'Kod',
+  'name' => 'Ad',
+  'allow_decimal' => 'Ondalık Sayılara İzin Ver',
+);

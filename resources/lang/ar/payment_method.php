@@ -1,0 +1,15 @@
+<?php return array (
+  'edit_payment_method' => 'تحرير طريقة الدفع',
+  'add_new_payment_method' => 'إضافة طريقة دفع',
+  'added' => 'تمت إضافة طريقة الدفع.',
+  'could_not_find' => 'تعذر العثور على طريقة الدفع المحددة.',
+  'default_cannot_be_deleted' => 'لا يمكن حذف طريقة الدفع الافتراضية.',
+  'delete_payment_method' => 'حذف طريقة الدفع',
+  'deleted' => 'تم حذف طريقة الدفع .',
+  'name' => 'الاسم',
+  'payment_method' => 'طريقة الدفع',
+  'payment_method_list' => 'قائمة طرق الدفع',
+  'name' => 'الاسم',
+  'code' => 'الرمز',
+  'description' => 'الوصف',
+);

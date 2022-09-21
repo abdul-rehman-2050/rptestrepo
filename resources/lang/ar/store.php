@@ -1,0 +1,18 @@
+<?php return array (
+  'edit_store' => 'تجرير المتجر',
+  'add_new_store' => 'أضف متجر',
+  'added' => 'تم إضافة المتجر بنجاح.',
+  'could_not_find' => 'لم يتم العثور على المتجر المحدد.',
+  'default_cannot_be_deleted' => 'لا يمكن حذف المتجر الإفتراضي.',
+  'delete_store' => 'حذف المتجر',
+  'deleted' => 'تم حذف المتجر.',
+  'name' => 'الاسم',
+  'store' => 'المتجر',
+  'store_list' => 'قائمة المتاجر',
+  'code' => 'الكود',
+  'name' => 'الاسم',
+  'address' => 'العنوان',
+  'phone' => 'رقم الموبايل',
+  'default_store' => 'Default Store',
+  'email' => 'البريد الإلكتروني',
+);
